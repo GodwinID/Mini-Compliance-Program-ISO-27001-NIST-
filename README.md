@@ -15,8 +15,8 @@ This repository contains the foundational compliance documentation for **NovaClo
 
 | File | Description |
 |------|-------------|
-| [novacloud_compliance.xlsx](https://github.com/user-attachments/files/26252219/novacloud_compliance.xlsx) | Full compliance workbook (3 tabs: Asset Inventory, Control Matrix, Maturity Dashboard) |
-| [novacloud_compliance_summary.docx](https://github.com/user-attachments/files/26252247/novacloud_compliance_summary.docx) | 1-page executive summary — scope, objectives, priority gaps, next steps |
+| [novacloud_compliance.xlsx](https://github.com/user-attachments/files/26393306/novacloud_compliance.xlsx) | Full compliance workbook (3 tabs: Asset Inventory, Control Matrix, Maturity Dashboard) |
+| [novacloud_compliance_summary.docx](https://github.com/user-attachments/files/26393320/novacloud_compliance_summary.docx) | 1-page executive summary — scope, objectives, priority gaps, next steps |
 
 ---
 
@@ -115,7 +115,7 @@ Q4 2026  →  ISO 27001 certification
 
 ## 🧰 How to Use This Project
 
-1. **Download** the [novacloud_compliance.xlsx](https://github.com/user-attachments/files/26258271/novacloud_compliance.xlsx)
+1. **Download** the [novacloud_compliance.xlsx](https://github.com/user-attachments/files/26393330/novacloud_compliance.xlsx)
 workbook and open in Excel or Google Sheets
 2. **Update** the Control Matrix as you implement or test controls
 3. **Track** maturity scores over time — aim for 4+ across all domains
